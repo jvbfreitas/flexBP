@@ -1,0 +1,16 @@
+Package: FQBP
+Type: Package
+Title: Flexible quasi-beta prime regression model
+Version: 0.1.0
+Author: person("João", "Freitas", email = "jvbfreitas@ime.unicamp.br", role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package includes the estimation of mean and covariance parameters, 
+    a residual analysis and local influences diagnostic tools
+Depends:
+  pracma,
+  Matrix,
+  mcglm,
+  ggplot2,
+  MASS
+License: GPL-3
+LazyData: true

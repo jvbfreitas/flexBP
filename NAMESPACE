@@ -1,0 +1,4 @@
+export(flexBP)
+export(print.flexBP)
+export(residuals.flexBP)
+export(LI.flexBP)
